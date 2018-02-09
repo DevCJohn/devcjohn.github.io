@@ -5,14 +5,14 @@
     display: block;
     width: 32px;
     height: 32px;
-    background: url(http://devcjohn.github.io/ouroboros-large.png) no-repeat;
+    background: url(https://i.imgur.com/tvn9SbQ.png) no-repeat;
     box-sizing: border-box;
     padding-left: 32px;
     margin-bottom: 6px;
 }
 
 #main-panel::after {
-    content: url(http://devcjohn.github.io/ouroboros-medium.png);
+    content: url(https://i.imgur.com/e83ak9q.png);
     position: absolute;
     right: 0px;
     bottom: 0px;
