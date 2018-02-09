@@ -5,14 +5,14 @@
     display: block;
     width: 32px;
     height: 32px;
-    background: url(ouroboros-small) no-repeat;
+    background: url(ouroboros-small.png) no-repeat;
     box-sizing: border-box;
     padding-left: 32px;
     margin-bottom: 6px;
 }
 
 #main-panel::after {
-    content: url(ouroboros-medium);
+    content: url(ouroboros-medium.png);
     position: absolute;
     right: 0px;
     bottom: 0px;
